@@ -1,5 +1,5 @@
 # Compiler-Design
-
+This is an implementation of a mini-interpreter for python scripts.Done as part of Compiler Design course.
 Lexer -> lexer.py
 Parser -> parserss.py
 Intermediate Code Generation -> tac.py , irgen.py
